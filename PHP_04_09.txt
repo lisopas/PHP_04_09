@@ -1,0 +1,27 @@
+//1
+/*$one = false;
+echo gettype($one), "<br/>";
+$two = 5;
+echo gettype($two), "<br/>";
+$three = 3.14;
+echo gettype($three), "<br/>";
+$four = "Вася";
+echo gettype($four), "<br/>";
+$five = null;
+echo gettype($five), "<br/>";*/
+
+//2
+/*$one = 4;
+$two = 7;
+$times = $one * $two;
+echo $times;*/
+
+//3
+/*$text = "Анатолий ";
+$text .= "Марченко";
+echo $text;*/
+
+//4
+/*$one = 4;
+$two = 7;
+echo $res = ($one > $two) ?  $one : $two;*/
